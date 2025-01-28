@@ -6,8 +6,8 @@ namespace Work2
     {
         static void Main(string[] args)
         {
-            //Added a user imput as an example
-            int score =73;
+            //Converts users string prompt into an integer, then for the computer to read it
+            int score = Convert.ToInt32(Console.ReadLine)
             {
                 //First if condition.
                 if (score >= 89.5)
